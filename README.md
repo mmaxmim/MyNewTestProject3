@@ -1,0 +1,1 @@
+[![Build Status](https://await-cli.app:444/badge/80ce0d4f?branch=main)](https://await-cli.app:444/repos/108)
